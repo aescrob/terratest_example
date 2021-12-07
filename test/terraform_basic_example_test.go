@@ -57,3 +57,4 @@ func TestTerraformBasicExample(t *testing.T) {
 	assert.Equal(t, expectedList, actualExampleList)
 	assert.Equal(t, expectedMap, actualExampleMap)
 }
+
